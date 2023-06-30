@@ -1,2 +1,2 @@
 # wordpress-chatbot-wschat
-<img src="01.png" />
+<img src="10.png" />
